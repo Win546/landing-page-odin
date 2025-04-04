@@ -3,6 +3,7 @@ body{
     height: 100vh;
     display: flex;
     flex-direction: column;
+    margin: 0;
   
 }
 
@@ -10,9 +11,26 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex:1 0 100px
 }
 header ul{
     display: flex;
     list-style: none;
     gap: 15px;
+}
+section{
+    display: flex;
+    flex:1 0 300px
+}
+.small-section{
+    flex:1 0 250px
+}
+.column-flex{
+    flex-direction: column;
+}
+.column-flex div{
+   display: flex;
+}
+footer{
+    flex:0 0 50px
 }
