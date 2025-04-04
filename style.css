@@ -21,7 +21,7 @@ header {
 .header-section{
     justify-content: space-between;
     align-items: center;
-    flex: 0 0 80%;
+    flex: 0 0 79%;
     display:flex;
 }
 header ul {
