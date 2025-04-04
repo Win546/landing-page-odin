@@ -8,6 +8,7 @@ body{
 }
 
 header{
+    background-color: #1F2937;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -23,6 +24,9 @@ section{
     flex:1 0 300px;
     align-items: center;
     justify-content: center;
+}
+h1{
+    color: #F9FAF8;
 }
 .small-section{
     flex:1 0 250px
