@@ -21,7 +21,7 @@ header {
 .header-section{
     justify-content: space-between;
     align-items: center;
-    flex: 0 0 79%;
+    flex: 0 0 80%;
     display:flex;
 }
 header ul {
@@ -67,7 +67,7 @@ h2 {
     font-size: 18px;
     padding: 25px 50px;
     border-radius: 5px;
-   flex: 0 0 60%;
+   flex: 0 0 75%;
 }
 
 .container>div {
@@ -152,7 +152,7 @@ footer {
 }
 
 .citazion {
-    flex: 0 1 60%;
+    flex: 0 1 80%;
     font-size: 36px;
     font-weight: lighter;
     font-style: italic;
